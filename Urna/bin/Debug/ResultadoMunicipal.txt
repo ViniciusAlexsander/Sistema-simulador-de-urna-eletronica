@@ -1,0 +1,25 @@
+Primeiro Turno:
+Prefeitos:
+
+Prefeito - Paula Vasconcelos -   PartidoA- Quantidade de votos:500
+Prefeito - Nayla Gomes -   PartidoB- Quantidade de votos:800
+Prefeito - Celson Fernandes -   PartidoC- Quantidade de votos:1900
+Prefeito - Jossé Maria -   PartidoD- Quantidade de votos:200
+Prefeito - Cabo Daciolo -   PartidoD- Quantidade de votos:1
+Votos Nulos:1
+Votos brancos: 1
+Vereadores
+Vereador - Josecleiton Da Silva -   PartidoA- Quantidade de votos:1900
+Vereador - Wanderleia do Hot Dog -   PartidoB- Quantidade de votos:1350
+Vereador - Chico da pipoca -   PartidoC- Quantidade de votos:551
+Vereador - Professor Paulo -   PartidoD- Quantidade de votos:2250
+Votos Nulos:1
+Quantidades de vagas por partido:
+
+PartidoA: 4
+PartidoB: 2
+PartidoC: 0
+PartidoD: 3
+Partido da Força: 0
+Número de eleitores: 0
+Número de votos brancos: 1

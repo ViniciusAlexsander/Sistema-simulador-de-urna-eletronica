@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<ArrayOfCandidato xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candidato>
+    <Numero>10123 </Numero>
+    <Nome>Josecleiton Da Silva</Nome>
+    <Cargo>Vereador</Cargo>
+    <Idade>75</Idade>
+    <Partido>PartidoA</Partido>
+    <QntVotos>1900</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>11321 </Numero>
+    <Nome>Wanderleia do Hot Dog</Nome>
+    <Cargo>Vereador</Cargo>
+    <Idade>75</Idade>
+    <Partido>PartidoB</Partido>
+    <QntVotos>1350</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>12852 </Numero>
+    <Nome>Chico da pipoca</Nome>
+    <Cargo>Vereador</Cargo>
+    <Idade>75</Idade>
+    <Partido>PartidoC</Partido>
+    <QntVotos>551</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>13741 </Numero>
+    <Nome>Professor Paulo</Nome>
+    <Cargo>Vereador</Cargo>
+    <Idade>75</Idade>
+    <Partido>PartidoD</Partido>
+    <QntVotos>2250</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>10 </Numero>
+    <Nome>Paula Vasconcelos</Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>99</Idade>
+    <Partido>PartidoA</Partido>
+    <QntVotos>500</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>11 </Numero>
+    <Nome>Nayla Gomes</Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>99</Idade>
+    <Partido>PartidoB</Partido>
+    <QntVotos>800</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>12 </Numero>
+    <Nome>Celson Fernandes</Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>99</Idade>
+    <Partido>PartidoC</Partido>
+    <QntVotos>1900</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>13 </Numero>
+    <Nome>Jossé Maria</Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>99</Idade>
+    <Partido>PartidoD</Partido>
+    <QntVotos>200</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>13 </Numero>
+    <Nome>Cabo Daciolo</Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>33</Idade>
+    <Partido>PartidoD</Partido>
+    <QntVotos>1</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>00</Numero>
+    <Nome>Prefeito Nulo </Nome>
+    <Cargo>Prefeito</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>1</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>006</Numero>
+    <Nome>Vereador Nulo </Nome>
+    <Cargo>Vereador</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>1</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>00</Numero>
+    <Nome>Presidente Nulo</Nome>
+    <Cargo>Presidente</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>0</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>00</Numero>
+    <Nome>Governador Nulo </Nome>
+    <Cargo>Governador</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>0</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>001 </Numero>
+    <Nome>Deputado F Nulo</Nome>
+    <Cargo>Deputado Federal</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>0</QntVotos>
+  </Candidato>
+  <Candidato>
+    <Numero>005 </Numero>
+    <Nome>Deputado E Nulo</Nome>
+    <Cargo>Deputado Estadual</Cargo>
+    <Idade>0</Idade>
+    <Partido>Nulo</Partido>
+    <QntVotos>0</QntVotos>
+  </Candidato>
+</ArrayOfCandidato>

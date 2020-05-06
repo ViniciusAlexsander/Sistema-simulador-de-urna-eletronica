@@ -1,0 +1,185 @@
+C:\Users\jvict\source\repos\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\jvict\source\repos\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\jvict\source\repos\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\jvict\source\repos\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\1217200\Downloads\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\1217200\Downloads\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\1217200\Downloads\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\vinic\source\trabalhoPoo\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\jvict\OneDrive\Área de Trabalho\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\vinic\Downloads\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\vinic\Downloads\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\vinic\Downloads\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\vinic\Downloads\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\jvict\OneDrive\Área de Trabalho\Urnas\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\1217200\Downloads\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\HardGames\Desktop\P.O.O\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\celson\Desktop\POO\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\celson\Desktop\POO\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\celson\Desktop\POO\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\celson\Desktop\POO\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\vinic\Desktop\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\vinic\Desktop\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\vinic\Desktop\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\vinic\Desktop\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\bin\Debug\Urna.exe.config
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\bin\Debug\Urna.exe
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\bin\Debug\Urna.pdb
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.csprojAssemblyReference.cache
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.Administrador.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.Cadastro.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.CadastroCandidato.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.CadastroPartido.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.ConfigEleicaoFederal.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.ConfiguracaoEleicaoMuni.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.EleicaoMunicipal.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.EleicaoNacional.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.Votacao.resources
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.exe
+C:\Users\vinic\source\trabalhoPooUrna\UrnaFinal\Urna\obj\Debug\Urna.pdb

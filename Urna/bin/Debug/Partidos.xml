@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />  <Partido>
+    <Nome>Partido Trabalhista</Nome>
+    <Sigla>PT</Sigla>
+    <Numero>13</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Partido Democrático Trabalhista</Nome>
+    <Sigla>PDT</Sigla>
+    <Numero>12</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Democratas</Nome>
+    <Sigla>DEM</Sigla>
+    <Numero>22</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Partido Novo</Nome>
+    <Sigla>PN</Sigla>
+    <Numero>30</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+</ArrayOfPartido>sDepEstudual>0</VagasDepEstudual>
+    <Media>0</Media>
+  </Partido>
+</ArrayOfPartido><?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Partido>
+    <Nome>Partido Trabalhista</Nome>
+    <Sigla>PT</Sigla>
+    <Numero>13</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Partido Democrático Trabalhista</Nome>
+    <Sigla>PDT</Sigla>
+    <Numero>12</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Democratas</Nome>
+    <Sigla>DEM</Sigla>
+    <Numero>22</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+  <Partido>
+    <Nome>Partido Novo</Nome>
+    <Sigla>PN</Sigla>
+    <Numero>30</Numero>
+    <VotosTotaisVereador>0</VotosTotaisVereador>
+    <VotosTotaisDepFederal>0</VotosTotaisDepFederal>
+    <VotosTotaisDepEstadual>0</VotosTotaisDepEstadual>
+    <VagasVereador>0</VagasVereador>
+    <VagasDepFederal>0</VagasDepFederal>
+    <VagasDepEstudual>0</VagasDepEstudual>
+  </Partido>
+</ArrayOfPartido><?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:x<?xml version="1.0"?>
+<ArrayOfPartido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
